@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EMS Boom</string>
+    <string name="action_settings">Settings</string>
+    <string name="input_number">Input number</string>
+</resources>

@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.boom.ems.emsboom.MainActivity">
+    <item
+        android:id="@+id/action_sync_contact"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        android:icon="@android:drawable/stat_notify_sync"
+        app:showAsAction="always" />
+</menu>
